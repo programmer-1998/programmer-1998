@@ -1,4 +1,25 @@
 <div align="center">
+
+### 🌐 Language / زبان / Dil / لغة / Sprache / Langue / Lingua / Idioma / 言語 / 언어 / 语言
+
+[![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](README.md)
+[![فارسی](https://img.shields.io/badge/فارسی-green?style=for-the-badge)](README.fa.md)
+[![Türkçe](https://img.shields.io/badge/Türkçe-red?style=for-the-badge)](README.tr.md)
+[![العربية](https://img.shields.io/badge/العربية-orange?style=for-the-badge)](README.ar.md)
+[![Deutsch](https://img.shields.io/badge/Deutsch-black?style=for-the-badge)](README.de.md)
+[![Français](https://img.shields.io/badge/Français-purple?style=for-the-badge)](README.fr.md)
+[![Italiano](https://img.shields.io/badge/Italiano-yellow?style=for-the-badge)](README.it.md)
+[![Português](https://img.shields.io/badge/Português-teal?style=for-the-badge)](README.pt.md)
+[![日本語](https://img.shields.io/badge/日本語-pink?style=for-the-badge)](README.ja.md)
+[![한국어](https://img.shields.io/badge/한국어-cyan?style=for-the-badge)](README.ko.md)
+[![中文](https://img.shields.io/badge/中文-brown?style=for-the-badge)](README.zh.md)
+
+</div>
+
+---
+
+
+<div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sina+Khanzadeh;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
