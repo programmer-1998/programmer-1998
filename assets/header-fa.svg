@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg_fa" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="40%" stop-color="#0E1626" />
+      <stop offset="100%" stop-color="#05070B" />
+    </linearGradient>
+    <linearGradient id="cyber_fa" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#4FACFE" />
+      <stop offset="100%" stop-color="#7F00FF" />
+    </linearGradient>
+    <pattern id="grid_fa" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#162238" stroke-width="0.8" opacity="0.6"/>
+    </pattern>
+    <radialGradient id="glow_fa" cx="20%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+    <style>
+      .title_fa { font-family: 'Vazirmatn', 'Tahoma', sans-serif; font-weight: 900; font-size: 46px; fill: #FFFFFF; }
+      .badge-txt_fa { font-family: 'Vazirmatn', 'Tahoma', sans-serif; font-size: 13px; font-weight: 700; fill: #00F2FE; }
+      .sub_fa { font-family: 'Vazirmatn', 'Tahoma', sans-serif; font-size: 17px; fill: #94A3B8; font-weight: 500; }
+      .tag_fa { font-family: 'Vazirmatn', 'Tahoma', sans-serif; font-size: 12px; fill: #E2E8F0; font-weight: 700; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="360" rx="20" fill="url(#bg_fa)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid_fa)"/>
+  <circle cx="250" cy="100" r="280" fill="url(#glow_fa)"/>
+
+  <!-- Left Side Cyber Graphic -->
+  <g transform="translate(180, 180)">
+    <circle cx="0" cy="0" r="90" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="6,6"/>
+    <circle cx="0" cy="0" r="70" fill="none" stroke="url(#cyber_fa)" stroke-width="3" opacity="0.8"/>
+    <circle cx="0" cy="0" r="48" fill="#111C30" stroke="#38BDF8" stroke-width="1.5"/>
+    <path d="M -15 -10 L 0 -25 L 15 -10 L 0 5 Z" fill="#00F2FE" opacity="0.9"/>
+    <path d="M -20 15 L 0 0 L 20 15 L 0 30 Z" fill="#7F00FF" opacity="0.7"/>
+  </g>
+
+  <!-- Content (RTL evaluated visual positions) -->
+  <!-- Top Status -->
+  <g transform="translate(850, 45)">
+    <rect x="0" y="0" width="300" height="30" rx="15" fill="#111C30" stroke="#1E293B" stroke-width="1.5"/>
+    <circle cx="280" cy="15" r="5" fill="#10B981"/>
+    <text x="265" y="20" class="badge-txt_fa" text-anchor="end">وضعیت سامانه: آنلاین و آماده همکاری</text>
+  </g>
+
+  <!-- Main Headline -->
+  <text x="1150" y="145" class="title_fa" text-anchor="end">سینا خانزاده</text>
+  <rect x="730" y="165" width="420" height="4" rx="2" fill="url(#cyber_fa)" />
+
+  <!-- Subheadlines -->
+  <text x="1150" y="205" class="sub_fa" text-anchor="end">توسعه‌دهنده ارشد فول‌استک • دانشجوی ارشد هوش مصنوعی • تبریز، ایران</text>
+  <text x="1150" y="235" class="sub_fa" text-anchor="end">معماری سیستم‌های کراس‌پلتفرم، ایجنت‌های خودمختار AI و تله‌متری اینترنت اشیا (IoT)</text>
+
+  <!-- Tags -->
+  <g transform="translate(360, 275)">
+    <rect x="650" y="0" width="140" height="34" rx="10" fill="#111E33" stroke="#00F2FE" stroke-width="1.2"/>
+    <text x="720" y="22" class="tag_fa" text-anchor="middle">🧠 ایجنت‌های هوش مصنوعی</text>
+
+    <rect x="475" y="0" width="160" height="34" rx="10" fill="#111E33" stroke="#38BDF8" stroke-width="1.2"/>
+    <text x="555" y="22" class="tag_fa" text-anchor="middle">⚡ سیستمی و زبان Rust</text>
+
+    <rect x="300" y="0" width="160" height="34" rx="10" fill="#111E33" stroke="#818CF8" stroke-width="1.2"/>
+    <text x="380" y="22" class="tag_fa" text-anchor="middle">⚛️ ری‌اکت و Next.js 15</text>
+
+    <rect x="135" y="0" width="150" height="34" rx="10" fill="#111E33" stroke="#C084FC" stroke-width="1.2"/>
+    <text x="210" y="22" class="tag_fa" text-anchor="middle">📱 کاتلین و موبایل</text>
+
+    <rect x="0" y="0" width="120" height="34" rx="10" fill="#111E33" stroke="#34D399" stroke-width="1.2"/>
+    <text x="60" y="22" class="tag_fa" text-anchor="middle">🌐 اینترنت اشیا</text>
+  </g>
+
+</svg>

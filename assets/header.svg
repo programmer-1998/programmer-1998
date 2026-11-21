@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="40%" stop-color="#0E1626" />
+      <stop offset="100%" stop-color="#05070B" />
+    </linearGradient>
+    <linearGradient id="cyber" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#4FACFE" />
+      <stop offset="100%" stop-color="#7F00FF" />
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#9d4edd" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#162238" stroke-width="0.8" opacity="0.6"/>
+    </pattern>
+    <radialGradient id="glow" cx="80%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+    <style>
+      .title { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; font-size: 52px; fill: #FFFFFF; letter-spacing: -1.5px; }
+      .badge-txt { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; font-weight: 700; fill: #00F2FE; letter-spacing: 1px; }
+      .sub { font-family: 'Inter', sans-serif; font-size: 18px; fill: #94A3B8; font-weight: 500; }
+      .tag { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #E2E8F0; font-weight: 600; }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 0.3; }
+      }
+      .pulsing { animation: pulse 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <circle cx="950" cy="100" r="280" fill="url(#glow)"/>
+
+  <!-- Top Cyber Status Bar -->
+  <rect x="50" y="45" width="230" height="30" rx="15" fill="#111C30" stroke="#1E293B" stroke-width="1.5"/>
+  <circle cx="68" cy="60" r="5" fill="#10B981" class="pulsing"/>
+  <text x="82" y="65" class="badge-txt">SYSTEM STATUS: ACTIVE</text>
+
+  <!-- Main Headline -->
+  <text x="50" y="145" class="title">SINA KHANZADEH</text>
+  <rect x="50" y="165" width="460" height="4" rx="2" fill="url(#cyber)" />
+
+  <!-- Subheadline -->
+  <text x="50" y="205" class="sub">Senior Full-Stack Architect • M.Sc. AI Systems Engineer • Tabriz, Iran</text>
+  <text x="50" y="235" class="sub">Engineering Cross-Platform Platforms, Autonomous Multi-Agents &amp; Enterprise IoT</text>
+
+  <!-- Tech tags pills -->
+  <g transform="translate(50, 275)">
+    <!-- Tag 1 -->
+    <rect x="0" y="0" width="130" height="34" rx="10" fill="#111E33" stroke="#00F2FE" stroke-width="1.2"/>
+    <text x="65" y="21" class="tag" text-anchor="middle">🧠 AI AGENTS</text>
+
+    <!-- Tag 2 -->
+    <rect x="145" y="0" width="165" height="34" rx="10" fill="#111E33" stroke="#38BDF8" stroke-width="1.2"/>
+    <text x="227" y="21" class="tag" text-anchor="middle">⚡ RUST &amp; SYSTEMS</text>
+
+    <!-- Tag 3 -->
+    <rect x="325" y="0" width="180" height="34" rx="10" fill="#111E33" stroke="#818CF8" stroke-width="1.2"/>
+    <text x="415" y="21" class="tag" text-anchor="middle">⚛️ REACT &amp; NEXT.JS</text>
+
+    <!-- Tag 4 -->
+    <rect x="520" y="0" width="175" height="34" rx="10" fill="#111E33" stroke="#C084FC" stroke-width="1.2"/>
+    <text x="607" y="21" class="tag" text-anchor="middle">📱 KOTLIN &amp; MOBILE</text>
+
+    <!-- Tag 5 -->
+    <rect x="710" y="0" width="160" height="34" rx="10" fill="#111E33" stroke="#34D399" stroke-width="1.2"/>
+    <text x="790" y="21" class="tag" text-anchor="middle">🌐 IOT TELEMETRY</text>
+  </g>
+
+  <!-- Right Side Cyber Visual Graphic -->
+  <g transform="translate(950, 180)">
+    <circle cx="0" cy="0" r="90" fill="none" stroke="#1E293B" stroke-width="2" stroke-dasharray="6,6"/>
+    <circle cx="0" cy="0" r="70" fill="none" stroke="url(#cyber)" stroke-width="3" opacity="0.8"/>
+    <circle cx="0" cy="0" r="48" fill="#111C30" stroke="#38BDF8" stroke-width="1.5"/>
+    <path d="M -15 -10 L 0 -25 L 15 -10 L 0 5 Z" fill="#00F2FE" opacity="0.9"/>
+    <path d="M -20 15 L 0 0 L 20 15 L 0 30 Z" fill="#7F00FF" opacity="0.7"/>
+  </g>
+
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" fill="none">
+  <defs>
+    <linearGradient id="timeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B132B" />
+      <stop offset="100%" stop-color="#050814" />
+    </linearGradient>
+    <style>
+      .timeHdr { font-family: 'Inter', sans-serif; font-size: 20px; font-weight: 800; fill: #FFFFFF; }
+      .barLabel { font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 700; fill: #E2E8F0; }
+      .barVal { font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 600; fill: #38BDF8; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="230" rx="16" fill="url(#timeBg)" stroke="#1E293B" stroke-width="1.5"/>
+
+  <text x="40" y="45" class="timeHdr">💻 WHERE I INVEST MY DEVELOPMENT LIFECYCLE</text>
+
+  <!-- Bar 1: Autonomous AI & Machine Learning (35%) -->
+  <g transform="translate(40, 75)">
+    <text x="0" y="0" class="barLabel">🤖 Autonomous AI Systems, LLM Agents &amp; Deep Learning</text>
+    <text x="1120" y="0" class="barVal" text-anchor="end">35%</text>
+    <rect x="0" y="10" width="1120" height="12" rx="6" fill="#1E293B"/>
+    <rect x="0" y="10" width="392" height="12" rx="6" fill="#8B5CF6"/>
+  </g>
+
+  <!-- Bar 2: Full-Stack Web & Cross-Platform (30%) -->
+  <g transform="translate(40, 120)">
+    <text x="0" y="0" class="barLabel">⚛️ Full-Stack Web, React/Next.js &amp; Cross-Platform (Desktop/Mobile)</text>
+    <text x="1120" y="0" class="barVal" text-anchor="end">30%</text>
+    <rect x="0" y="10" width="1120" height="12" rx="6" fill="#1E293B"/>
+    <rect x="0" y="10" width="336" height="12" rx="6" fill="#0EA5E9"/>
+  </g>
+
+  <!-- Bar 3: Systems, Rust, C++ & IoT Telemetry (20%) -->
+  <g transform="translate(40, 165)">
+    <text x="0" y="0" class="barLabel">⚡ Systems Engineering, Rust/C++, Linux Kernel &amp; IoT Telemetry</text>
+    <text x="1120" y="0" class="barVal" text-anchor="end">20%</text>
+    <rect x="0" y="10" width="1120" height="12" rx="6" fill="#1E293B"/>
+    <rect x="0" y="10" width="224" height="12" rx="6" fill="#10B981"/>
+  </g>
+
+  <!-- Bar 4: Open-Source Innovations & Mentorship (15%) -->
+  <g transform="translate(40, 210)">
+    <text x="0" y="0" class="barLabel">🌍 Open-Source Community Tools, Developer Experience &amp; Mentorship</text>
+    <text x="1120" y="0" class="barVal" text-anchor="end">15%</text>
+    <rect x="0" y="10" width="1120" height="12" rx="6" fill="#1E293B"/>
+    <rect x="0" y="10" width="168" height="12" rx="6" fill="#F59E0B"/>
+  </g>
+
+</svg>

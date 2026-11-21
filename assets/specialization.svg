@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E1626" />
+      <stop offset="100%" stop-color="#070B12" />
+    </linearGradient>
+    <linearGradient id="aiGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A2BE2" />
+      <stop offset="50%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+    <style>
+      .hdr { font-family: 'Inter', sans-serif; font-size: 22px; font-weight: 800; fill: #FFFFFF; }
+      .pill-lbl { font-family: 'Inter', sans-serif; font-size: 14px; font-weight: 700; fill: #F1F5F9; }
+      .desc { font-family: 'Inter', sans-serif; font-size: 13px; fill: #94A3B8; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" rx="16" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Header -->
+  <text x="40" y="50" class="hdr">🎯 CORE AI &amp; SYSTEM ENGINEERING SPECIALIZATIONS</text>
+  <rect x="40" y="65" width="580" height="3" rx="1.5" fill="url(#aiGrad)"/>
+
+  <!-- 3 Columns of specialized pillars -->
+  <!-- Col 1 -->
+  <g transform="translate(40, 95)">
+    <rect width="350" height="135" rx="12" fill="#131D31" stroke="#334155" stroke-width="1"/>
+    <text x="20" y="35" class="pill-lbl">🧠 Autonomous AI Agents &amp; MCP</text>
+    <text x="20" y="65" class="desc">• Multi-agent orchestration (AGY &amp; Swarm)</text>
+    <text x="20" y="90" class="desc">• Zero-token local routing &amp; tool automation</text>
+    <text x="20" y="115" class="desc">• Production MCP servers &amp; tool use</text>
+  </g>
+
+  <!-- Col 2 -->
+  <g transform="translate(425, 95)">
+    <rect width="350" height="135" rx="12" fill="#131D31" stroke="#334155" stroke-width="1"/>
+    <text x="20" y="35" class="pill-lbl">⚡ Systems &amp; Cross-Platform Core</text>
+    <text x="20" y="65" class="desc">• Rust &amp; C++ low-level systems engineering</text>
+    <text x="20" y="90" class="desc">• Industrial ECU telemetry &amp; CAN-bus</text>
+    <text x="20" y="115" class="desc">• High-speed desktop apps via Electron</text>
+  </g>
+
+  <!-- Col 3 -->
+  <g transform="translate(810, 95)">
+    <rect width="350" height="135" rx="12" fill="#131D31" stroke="#334155" stroke-width="1"/>
+    <text x="20" y="35" class="pill-lbl">🌐 Full-Stack Cloud &amp; Mobile</text>
+    <text x="20" y="65" class="desc">• Next.js 15, React 19 &amp; TypeScript</text>
+    <text x="20" y="90" class="desc">• Kotlin Native Android &amp; React Native</text>
+    <text x="20" y="115" class="desc">• Scalable Docker, Microservices &amp; Linux</text>
+  </g>
+
+</svg>
