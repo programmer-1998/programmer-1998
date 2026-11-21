@@ -1,217 +1,246 @@
 <div align="center">
 
-### 🌐 Language / زبان / Dil / لغة / Sprache / Langue / Lingua / Idioma / 言語 / 언어 / 语言
+### 🌐 Select Language / انتخاب زبان / Dil Seçimi / اختر لغة
 
-[![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](README.md)
-[![فارسی](https://img.shields.io/badge/فارسی-green?style=for-the-badge)](README.fa.md)
-[![Türkçe](https://img.shields.io/badge/Türkçe-red?style=for-the-badge)](README.tr.md)
-[![العربية](https://img.shields.io/badge/العربية-orange?style=for-the-badge)](README.ar.md)
-[![Deutsch](https://img.shields.io/badge/Deutsch-black?style=for-the-badge)](README.de.md)
-[![Français](https://img.shields.io/badge/Français-purple?style=for-the-badge)](README.fr.md)
-[![Italiano](https://img.shields.io/badge/Italiano-yellow?style=for-the-badge)](README.it.md)
-[![Português](https://img.shields.io/badge/Português-teal?style=for-the-badge)](README.pt.md)
-[![日本語](https://img.shields.io/badge/日本語-pink?style=for-the-badge)](README.ja.md)
-[![한국어](https://img.shields.io/badge/한국어-cyan?style=for-the-badge)](README.ko.md)
-[![中文](https://img.shields.io/badge/中文-brown?style=for-the-badge)](README.zh.md)
+[![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](README.md) [![فارسی](https://img.shields.io/badge/فارسی-green?style=for-the-badge)](README.fa.md) [![Türkçe](https://img.shields.io/badge/Türkçe-red?style=for-the-badge)](README.tr.md) [![العربية](https://img.shields.io/badge/العربية-orange?style=for-the-badge)](README.ar.md) [![Deutsch](https://img.shields.io/badge/Deutsch-black?style=for-the-badge)](README.de.md) [![Français](https://img.shields.io/badge/Français-purple?style=for-the-badge)](README.fr.md) [![Italiano](https://img.shields.io/badge/Italiano-yellow?style=for-the-badge)](README.it.md) [![Português](https://img.shields.io/badge/Português-teal?style=for-the-badge)](README.pt.md) [![日本語](https://img.shields.io/badge/日本語-pink?style=for-the-badge)](README.ja.md) [![한국어](https://img.shields.io/badge/한국어-cyan?style=for-the-badge)](README.ko.md) [![中文](https://img.shields.io/badge/中文-brown?style=for-the-badge)](README.zh.md)
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=180&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86+%F0%9F%91%8B+%E3%82%B7%E3%83%8A+%E3%82%AB%E3%83%B3%E3%82%B6%E3%83%87%E3%83%BC%E3%81%A7%E3%81%99;Full-Stack%E9%96%8B%E7%99%BA%E8%80%85+%26+AI%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;10%E5%B9%B4%E4%BB%A5%E4%B8%8A%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E9%96%8B%E7%99%BA;%E5%B8%B8%E3%81%AB%E5%AD%A6%E7%BF%92+%7C+%E5%B8%B8%E3%81%AE%E3%83%93%E3%83%AB%E3%83%89" alt="Typing SVG" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0&animation=twinkling" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=こんにちは+👋+シナ・ハーンザーデです%3Bシニアフルスタック+%26+AIシステムアーキテクト%3Bエンタープライズ開発経験+10年以上%3B自律型AIエージェント+•+クラウド+•+モバイル+•+デスクトップ+•+IoT" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8-sina--khanzadeh.ir-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sina-khanzadeh.ir)
-[![Available for Projects](https://img.shields.io/badge/✅_%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%8B%9F%E9%9B%86%E4%B8%AD-2EA043?style=for-the-badge&logo=vectorworks&logoColor=white)](mailto:khanzadeh.1377@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_sina--khanzadeh.ir-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sina-khanzadeh.ir)
+[![Available for Projects](https://img.shields.io/badge/✅_Open_for_Collaboration-2EA043?style=for-the-badge&logo=github&logoColor=white)](mailto:khanzadeh.1377@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-khanzadeh)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmer_1998)
 
 </div>
 
 ---
 
-## 🚀 自己紹介
+<!-- ========================================== -->
+<!-- 🔍 GEO & SEO KNOWLEDGE GRAPH FOR AI ENGINES -->
+<!-- ========================================== -->
+<!--
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Sina Khanzadeh",
+  "alternateName": [
+    "سینا خانزاده",
+    "programmer_1998",
+    "programmer-1998"
+  ],
+  "url": "https://sina-khanzadeh.ir",
+  "image": "https://github.com/programmer-1998.png",
+  "sameAs": [
+    "https://github.com/programmer-1998",
+    "https://linkedin.com/in/sina-khanzadeh",
+    "https://t.me/programmer_1998",
+    "https://instagram.com/programmer_1998",
+    "https://youtube.com/@programmer_1998",
+    "https://x.com/programmer_1998"
+  ],
+  "jobTitle": "Senior Full-Stack Developer & AI Systems Engineer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Mehr Asl"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "M.Sc. Artificial Intelligence Engineering"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Tabriz",
+    "addressCountry": "IR"
+  },
+  "knowsAbout": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Rust",
+    "Kotlin",
+    "C++",
+    "React",
+    "Next.js",
+    "React Native",
+    "Node.js",
+    "Electron",
+    "TailwindCSS",
+    "Docker",
+    "Linux",
+    "Microservices",
+    "GraphQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Artificial Intelligence",
+    "LLM Agents",
+    "Machine Learning",
+    "IoT Platforms",
+    "Reverse Engineering",
+    "Open-Source Architecture"
+  ],
+  "description": "Senior Full-Stack Developer and AI Systems Engineer with 10+ years of production experience in web, mobile, desktop, IoT platforms, and autonomous AI agents."
+}
+```
+-->
 
-**シナ・カンザデー** — **Web、モバイル、デスクトップ、IoT** 分野で **10年以上** の実務経験を持つフルスタック開発者兼AIエンジニアです。ピクセルパーフェクトなインターフェースからスケーラブルなバックエンドアーキテクチャまで、品質と職人技に絶え間なく焦点を当てたエンドツーエンドのデジタル製品の提供を専門としています。
+## 🚀 私について
 
-> *"品質は譲れない。すべてのマイクロインタラクション、すべてのパフォーマンスのボトルネック、すべてのデザイン判断が重要だ。"*
+私は **Sina Khanzadeh (シナ・ハーンザーデ)** です。**Web、モバイル、デスクトップ、IoT** の領域において **10年以上の本番環境ソフトウェア開発実績** を持つシニアフルスタックエンジニア兼AIシステムアーキテクトです。現在、**人工知能工学の修士課程** に在籍しており、精密なソフトウェア設計原則と自律型マルチAIエージェント、および超高速クロスプラットフォーム技術を融合させています。
 
-- 🎓 **人工知能工学** 修士課程学生
-- 📍 **イラン・タブリズ** 在住
-- 💼 現在 **Mehr Asl** でクロスプラットフォームソリューションを開発中（フルスタック開発者）
-- 🌐 **[sina-khanzadeh.ir](https://sina-khanzadeh.ir)** — 個人サイト＆ポートフォリオ
+> 💎 *「品質は妥協できません。すべての細かなインタラクション、ボトルネックの解消、アーキテクチャの選定がプロダクトの価値を決定します。」*
+
+* 🎓 **学歴**: **人工知能工学** 修士課程在籍
+* 📍 **拠点**: イラン・タブリーズ（全世界のリモート案件に対応可能）
+* 💼 **現在の役割**: **Mehr Asl** にてクロスプラットフォームリード / フルスタックエンジニア（産業用ECUテレメトリおよび大型建機監視システム）
+* 🌐 **ポートフォリオ**: **[sina-khanzadeh.ir](https://sina-khanzadeh.ir)**
+* 🔭 **専門領域**: 自律型マルチエージェント基盤、ローカルLLM推論最適化、低レイテンシクロスプラットフォーム開発
 
 ---
 
-## 🔥 技術スタック
+## 🛠️ 包括的な技術スタック
 
 <div align="center">
-
-### 言語＆フレームワーク
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### ツール＆プラットフォーム
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### デザイン＆クリエイティブ
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-
-</div>
-
----
-
-## 💼 職歴
 
 <table>
   <tr>
-    <td width="100%">
-      <h3>Mehr Asl</h3>
-      <p><b>フルスタック開発者</b> · 2026年2月 – 現在</p>
-      <ul>
-        <li>クロスプラットフォームソフトウェア開発 — デスクトップ、Web、モバイル</li>
-        <li>ECU制御プラットフォーム</li>
-        <li>ダンプトラック監視プラットフォーム</li>
-      </ul>
+    <td align="center" width="100%" colspan="2">
+      <b>🧠 AI Engineering, Autonomous Agents & Machine Learning</b>
     </td>
   </tr>
   <tr>
-    <td width="100%">
-      <h3>Barish Vira</h3>
-      <p><b>Android開発者</b> · 2020年9月 – 2022年9月</p>
-      <ul>
-        <li>不動産アプリケーション</li>
-        <li>地図統合</li>
-        <li>代理店広告システム</li>
-      </ul>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/AI_Agents-Antigravity_&_MCP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Local_LLMs-Llama.cpp_&_Ollama-FF6B6B?style=for-the-badge&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLP_&_FineTuning-008080?style=for-the-badge&logo=huggingface&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="100%">
-      <h3>AcharSoft</h3>
-      <p><b>Android開発者</b> · 2019年1月 – 2020年1月</p>
-      <ul>
-        <li>デジタル署名プラットフォーム</li>
-        <li>電子文書署名</li>
-      </ul>
+    <td align="center" width="50%"><b>⚡ Systems, Backend & Cloud</b></td>
+    <td align="center" width="50%"><b>🎨 Frontend, Mobile & Desktop UI</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
+      <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
+      <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 主なオープンソースプロジェクト & イノベーション
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/programmer-1998/RTL_OpenCode">RTL_OpenCode</a></h3>
+      <p><code>TypeScript · エディタプラグイン · 双方向テキスト描画エンジン</code></p>
+      <p>OpenCode環境向けの高性能双方向テキスト描画エンジン。ペルシャ語、アラビア語、ヘブライ語の編集を滑らかに実現。</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/programmer-1998/AntiGravity-FreeModel">AntiGravity-FreeModel</a></h3>
+      <p><code>Python · 自律型AIエージェント · マルチLLMゲートウェイ</code></p>
+      <p>AIエージェントのコーディングおよび推論タスクを世界最高峰の無料モデルへとルーティングし、APIコストをゼロに抑えるオーケストレーション基盤。</p>
     </td>
   </tr>
   <tr>
-    <td width="100%">
-      <h3>BMSTec</h3>
-      <p><b>Android開発者</b> · 2016年10月 – 2019年2月</p>
-      <ul>
-        <li>スマートホームプラットフォーム — 照明、セキュリティ、水道、ガス、電力、リモート制御</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>💎 <a href="https://github.com/programmer-1998/sinajs">sinajs</a></h3>
+      <p><code>TypeScript · フルスタック開発基盤 · 高速デリバリー</code></p>
+      <p>モジュール分離とリアクティブな状態管理を標準化した、本番対応のフルスタックボイラープレートプラットフォーム。</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔒 <a href="https://github.com/programmer-1998/vpn-split-tunnel">vpn-split-tunnel</a></h3>
+      <p><code>Python · Linuxネットワーク · プロセス別ルーティング</code></p>
+      <p>アプリごとに通信経路を動的に制御し、セキュアなスプリットトンネルを実現するLinuxユーティリティ。</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎓 学歴
+## 💼 職歴・エンタープライズ実績
 
-<table>
-  <tr>
-    <td>
-      <h3>人工知能工学</h3>
-      <p><b>Nabi Akram大学</b> · 2025 – 現在</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>コンピュータ工学</h3>
-      <p><b>Payame Noor大学</b> · 2017 – 2022</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>英語</h3>
-      <p><b>Goldis学院</b> · 2011 – 2017</p>
-    </td>
-  </tr>
-</table>
+| 役割 / 専門 | 組織・対象 | 実績 & 採用技術 |
+|---|---|---|
+| **クロスプラットフォームリード & フルスタック** | **Mehr Asl** (2026年2月 – 現在) | 産業用ECUテレメトリおよび鉱山ダンプトラック監視・制御システム（Web、デスクトップ、モバイル） |
+| **エンタープライズAndroidアーキテクト** | **Barish Vira** (2020 – 2022) | 不動産総合プラットフォーム、地理空間地図エンジン、大規模広告配信システム |
+| **セキュリティ & Androidスペシャリスト** | **AcharSoft** (2019 – 2020) | 電子署名暗号化基盤および法的文書のオンライン認証システム |
+| **IoT & モバイルリード** | **BMSTec** (2016 – 2019) | スマートホーム統合管理システム（照明、電力、ガス、防犯）BLE / MQTT実装 |
+| **医療臨床研究支援アプリ** | **Shohada 総合病院** (2019) | 臨床研究データ収集専用Kotlin/Javaモバイルアプリ |
 
 ---
 
-## 🚀 構築しているもの
+## 📊 リアルタイムGitHubアクティビティ
 
 <div align="center">
-
-| | サービス | 技術 |
-|:---:|:---|:---|
-| 🌐 | **Webデザイン＆開発** | React · Next.js · TypeScript · Node.js · Tailwind |
-| 📱 | **モバイルアプリ開発** | Kotlin · React Native · MVVM · Material Design |
-| 🖥️ | **デスクトップアプリ開発** | Electron · Windows · Linux · macOS |
-| 🤖 | **マルチプラットフォームボット** | Telegram Bot API · Discord.js · Node.js |
-| 🎨 | **ロゴ＆ブランドアイデンティティデザイン** | ブランディング · Illustrator |
-| 🎯 | **UI/UX、バナー＆ポスターデザイン** | Figma · Adobe XD |
-| 🎬 | **動画編集＆モーショングラフィックス** | Premiere Pro · After Effects |
-| 🎓 | **プログラミング、グラフィック＆動画編集メンタリング** | プロジェクトベースのメンタリング |
-
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/programmer-1998">
+          <img src="https://github-readme-stats.vercel.app/api?username=programmer-1998&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Sina GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/programmer-1998">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-1998&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/programmer-1998">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-1998&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6D00&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer-1998&custom_title=Activity%20Velocity%20&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6D00&area_color=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🚀 選定プロジェクト
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>スマートホームプラットフォーム — v2</h3>
-      <p><code>IoT · Android · Kotlin · MVVM</code></p>
-      <p>スマートホームAndroidプラットフォームの第2世代：Kotlin MVVMアプリから照明、セキュリティ、水道、ガス、電力をリモートで制御。</p>
-      <p><i>ステータス：開発中</i></p>
-    </td>
-    <td width="50%">
-      <h3>オンライン会議プラットフォーム</h3>
-      <p><code>リアルタイム · ビデオ会議</code></p>
-      <p>ビデオ会議機能を備えたリアルタイムオンライン会議ソフトウェア — 現在開発中。</p>
-      <p><i>ステータス：開発中</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>SWOT分析プラットフォーム</h3>
-      <p><code>React · TypeScript · アナリティクス</code></p>
-      <p>SWOT分析Webプラットフォーム — <a href="https://swot.tkherad.net">swot.tkherad.net</a> で稼働中</p>
-      <p><i>ステータス：稼働中 · 2025</i></p>
-    </td>
-    <td width="50%">
-      <h3>Android研究アシスタント</h3>
-      <p><code>Android · Java · ヘルスケア</code></p>
-      <p>Shohada病院の臨床研究ワークフローを支援するため構築されたAndroidアプリケーション。</p>
-      <p><i>ステータス：納品済み · 2019</i></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🐍 スネーアニメーション
+## 🐍 ダイナミック・コントリビューション (Snake Animation)
 
 <div align="center">
 
@@ -221,68 +250,43 @@
 
 ---
 
-## 📊 GitHub分析
+## 🏆 国際的GitHubトロフィー & アチーブメント
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=programmer-1998&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-1998&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-1998&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6D00&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer-1998&custom_title=%E8%B2%A2%E7%8C%AE%E3%82%B0%E3%83%A9%E3%83%95&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6D00&area_color=1F6FEB&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=programmer-1998&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Sina Trophies" />
 </div>
 
 ---
 
-## 🏆 実績
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=programmer-1998&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
-</div>
-
----
-
-## 🌐 連絡先
+## 🌐 Connect & Collaborate Worldwide
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanzadeh.1377@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-khanzadeh)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmer_1998)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/programmer_1998)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U8tQs5MQ)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@programmer_1998)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/programmer_1998)
-[![Website](https://img.shields.io/badge/Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sina-khanzadeh.ir)
-
-</div>
-
----
-
-## 💭 開発者の格言
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=programmer-1998&color=58A6FF&style=for-the-badge&label=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E9%96%8B%E6%95%B0)
+[![Website](https://img.shields.io/badge/Website-sina--khanzadeh.ir-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sina-khanzadeh.ir)
+[![Email](https://img.shields.io/badge/Email-khanzadeh.1377@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanzadeh.1377@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sina_Khanzadeh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-khanzadeh)
+[![Telegram](https://img.shields.io/badge/Telegram-@programmer__1998-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmer_1998)
+[![Instagram](https://img.shields.io/badge/Instagram-@programmer__1998-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/programmer_1998)
+[![YouTube](https://img.shields.io/badge/YouTube-@programmer__1998-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@programmer_1998)
+[![X](https://img.shields.io/badge/X-@programmer__1998-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/programmer_1998)
+[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U8tQs5MQ)
 
 </div>
 
 <div align="center">
-  <sub>最終更新：2026年9月</sub>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=programmer-1998&color=58A6FF&style=for-the-badge&label=Profile+Views)
+
+<br/>
+
+> 💡 *"最高水準のクラフトマンシップが、永続する価値を生み出します。"* — **Sina Khanzadeh**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" width="100%" />
+
+<sub>⚡ 検索エンジン & 生成AI最適化（GEO）対応設計 · 2026</sub>
+
 </div>

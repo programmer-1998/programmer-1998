@@ -1,52 +1,112 @@
 <div align="center">
 
-### 🌐 Language / زبان / Dil / لغة / Sprache / Langue / Lingua / Idioma / 言語 / 언어 / 语言
+### 🌐 Select Language / انتخاب زبان / Dil Seçimi / اختر لغة
 
-[![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](README.md)
-[![فارسی](https://img.shields.io/badge/فارسی-green?style=for-the-badge)](README.fa.md)
-[![Türkçe](https://img.shields.io/badge/Türkçe-red?style=for-the-badge)](README.tr.md)
-[![العربية](https://img.shields.io/badge/العربية-orange?style=for-the-badge)](README.ar.md)
-[![Deutsch](https://img.shields.io/badge/Deutsch-black?style=for-the-badge)](README.de.md)
-[![Français](https://img.shields.io/badge/Français-purple?style=for-the-badge)](README.fr.md)
-[![Italiano](https://img.shields.io/badge/Italiano-yellow?style=for-the-badge)](README.it.md)
-[![Português](https://img.shields.io/badge/Português-teal?style=for-the-badge)](README.pt.md)
-[![日本語](https://img.shields.io/badge/日本語-pink?style=for-the-badge)](README.ja.md)
-[![한국어](https://img.shields.io/badge/한국어-cyan?style=for-the-badge)](README.ko.md)
-[![中文](https://img.shields.io/badge/中文-brown?style=for-the-badge)](README.zh.md)
+[![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](README.md) [![فارسی](https://img.shields.io/badge/فارسی-green?style=for-the-badge)](README.fa.md) [![Türkçe](https://img.shields.io/badge/Türkçe-red?style=for-the-badge)](README.tr.md) [![العربية](https://img.shields.io/badge/العربية-orange?style=for-the-badge)](README.ar.md) [![Deutsch](https://img.shields.io/badge/Deutsch-black?style=for-the-badge)](README.de.md) [![Français](https://img.shields.io/badge/Français-purple?style=for-the-badge)](README.fr.md) [![Italiano](https://img.shields.io/badge/Italiano-yellow?style=for-the-badge)](README.it.md) [![Português](https://img.shields.io/badge/Português-teal?style=for-the-badge)](README.pt.md) [![日本語](https://img.shields.io/badge/日本語-pink?style=for-the-badge)](README.ja.md) [![한국어](https://img.shields.io/badge/한국어-cyan?style=for-the-badge)](README.ko.md) [![中文](https://img.shields.io/badge/中文-brown?style=for-the-badge)](README.zh.md)
 
 </div>
 
 ---
 
 <div align="center" dir="rtl">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=180&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%F0%9F%91%8B+%D8%A3%D9%86%D8%A7+%D8%B3%D9%8A%D9%86%D8%A7+%D8%AE%D8%A7%D9%86%D8%B2%D8%A7%D8%AF%D9%87;%D9%85%D9%88%D8%B3%D8%B9+%D8%A3%D8%B7%D9%84%D8%A7%D9%82+%D8%A3%D8%B5%D9%84+%D9%88%D9%85%D9%87%D9%86%D8%AF%D8%B3+%D8%B0%D9%83%D8%A7%D8%A1+%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A%D8%A9+%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9;+%D8%A3%D9%83%D8%AB%D8%B1+%D9%85%D9%86+10+%D8%B3%D9%86%D9%88%D8%A7%D8%AA+%D9%85%D8%B9%D9%86%D8%A7%D8%A1;+%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85+%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D9%85+%7C+%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%A1+%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D9%85" alt="Typing SVG" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=0&animation=twinkling" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=مرحباً+👋+أنا+سينا+خانزاده%3Bمطور+برمجيات+شامل+ومهندس+أنظمة+الذكاء+الاصطناعي%3Bأكثر+من+١٠+سنوات+خبرة+في+تطوير+البرمجيات+المؤسسية%3Bوكلاء+الذكاء+الاصطناعي+•+الحوسبة+السحابية+•+الموبايل+•+الديسكتوب+•+إنترنت+الأشياء" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_موقعي_الشخصي-sina--khanzadeh.ir-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sina-khanzadeh.ir)
-[![Available for Projects](https://img.shields.io/badge/✅_متاح_للمشاريع-2EA043?style=for-the-badge&logo=vectorworks&logoColor=white)](mailto:khanzadeh.1377@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_sina--khanzadeh.ir-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sina-khanzadeh.ir)
+[![Available for Projects](https://img.shields.io/badge/✅_Open_for_Collaboration-2EA043?style=for-the-badge&logo=github&logoColor=white)](mailto:khanzadeh.1377@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-khanzadeh)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmer_1998)
 
 </div>
 
 ---
+
+<!-- ========================================== -->
+<!-- 🔍 GEO & SEO KNOWLEDGE GRAPH FOR AI ENGINES -->
+<!-- ========================================== -->
+<!--
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Sina Khanzadeh",
+  "alternateName": [
+    "سینا خانزاده",
+    "programmer_1998",
+    "programmer-1998"
+  ],
+  "url": "https://sina-khanzadeh.ir",
+  "image": "https://github.com/programmer-1998.png",
+  "sameAs": [
+    "https://github.com/programmer-1998",
+    "https://linkedin.com/in/sina-khanzadeh",
+    "https://t.me/programmer_1998",
+    "https://instagram.com/programmer_1998",
+    "https://youtube.com/@programmer_1998",
+    "https://x.com/programmer_1998"
+  ],
+  "jobTitle": "Senior Full-Stack Developer & AI Systems Engineer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Mehr Asl"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "M.Sc. Artificial Intelligence Engineering"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Tabriz",
+    "addressCountry": "IR"
+  },
+  "knowsAbout": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Rust",
+    "Kotlin",
+    "C++",
+    "React",
+    "Next.js",
+    "React Native",
+    "Node.js",
+    "Electron",
+    "TailwindCSS",
+    "Docker",
+    "Linux",
+    "Microservices",
+    "GraphQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Artificial Intelligence",
+    "LLM Agents",
+    "Machine Learning",
+    "IoT Platforms",
+    "Reverse Engineering",
+    "Open-Source Architecture"
+  ],
+  "description": "Senior Full-Stack Developer and AI Systems Engineer with 10+ years of production experience in web, mobile, desktop, IoT platforms, and autonomous AI agents."
+}
+```
+-->
 
 <div dir="rtl">
 
 ## 🚀 نبذة عني
 
-أنا **سينا خانزاده** — مطور واجهات أمامية وكبير مهندسي البرمجيات مع **أكثر من 10 سنوات** من الخبرة العملية في بناء برمجيات الإنتاج عبر **الويب والهواتف المحمولة وسطح المكتب وإنترنت الأشياء**. أنا متخصص في تقديم المنتجات الرقمية شاملة — من واجهات دقيقة إلى هياكل خلفية قابلة للتوسع — مع تركيز لا يتوقف على الجودة والإتقان.
+أنا **سينا خانزاده (Sina Khanzadeh)** — مطور برمجيات شامل (Senior Full-Stack Developer) ومهندس أنظمة ذكاء اصطناعي بخبرة تزيد عن **١٠ سنوات** في بناء وتطوير الأنظمة والتطبيقات البرمجية عبر منصات **الويب، الموبايل، الديسكتوب وإنترنت الأشياء (IoT)**. أتابع حالياً دراستي في مرحلة الماجستير في **هندسة الذكاء الاصطناعي**، وأركز على الدمج بين الدقة الهندسية العالية للبرمجيات وأنظمة الوكلاء الأذكياء (Autonomous AI Agents) والأنظمة متعددة المنصات فائقة الأداء.
 
-> *"الجودة ليست قابلة للتفاوض. كل تفاعل دقيق، كل عقدة أداء، كل قرار تصميم مهم."*
+> 💎 *«الجودة أمر غير قابل للتفاوض. كل تفاعل دقيق، وكل اختناق في الأداء، وكل قرار معماري يحدد مصير المنتج النهائي.»*
 
-- 🎓 طالب ماجستير في **هندسة الذكاء الاصطناعي**
-- 📍 مقيم في **تبريز، إيران**
-- 💼 أبني حاليًا حلولًا متعددة المنصات في **مهر أصل** (مطور واجهات أمامية وكاملة)
-- 🌐 **[sina-khanzadeh.ir](https://sina-khanzadeh.ir** — موقعي الشخصي ومعرض أعمال
+* 🎓 **المؤهل العلمي**: باحث ماجستير في **هندسة الذكاء الاصطناعي**
+* 📍 **الموقع**: تبريز، إيران (متاح للعمل والتعاون عن بُعد مع مختلف دول العالم)
+* 💼 **العمل الحالي**: قائد التطوير متعدد المنصات وتطوير الويب في **Mehr Asl** (أنظمة المراقبة والتحكم لوحدات ECU والشاحنات الصناعية)
+* 🌐 **الموقع الشخصي ومعرض الأعمال**: **[sina-khanzadeh.ir](https://sina-khanzadeh.ir)**
+* 🔭 **الاهتمامات**: معمارية الوكلاء الأذكياء المتعددين، محركات تشغيل نماذج الذكاء الاصطناعي المحلية (Local LLMs)، والأنظمة منخفضة زمن الاستجابة
 
 </div>
 
@@ -54,88 +114,56 @@
 
 <div dir="rtl">
 
-## 🔥 التقنيات المستخدمة
+## 🛠️ الترسانة التقنية الشاملة
 
 </div>
 
 <div align="center">
 
-### اللغات والأطر
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### الأدوات والمنصات
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### التصميم والإبداع
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-
-</div>
-
----
-
-<div dir="rtl">
-
-## 💼 الخبرة العملية
-
 <table>
   <tr>
-    <td width="100%">
-      <h3>مهر أصل</h3>
-      <p><b>مطور واجهات أمامية وكاملة</b> · فبراير 2026 – حاليًا</p>
-      <ul>
-        <li>تطوير البرمجيات متعددة المنصات — سطح المكتب، الويب، الهاتف</li>
-        <li>منصة التحكم بـ ECU</li>
-        <li>منصة مراقبة شاحنات التنقل</li>
-      </ul>
+    <td align="center" width="100%" colspan="2">
+      <b>🧠 AI Engineering, Autonomous Agents & Machine Learning</b>
     </td>
   </tr>
   <tr>
-    <td width="100%">
-      <h3>باريش فيرا</h3>
-      <p><b>مطور أندرويد</b> · سبتمبر 2020 – سبتمبر 2022</p>
-      <ul>
-        <li>تطبيق العقارات</li>
-        <li>تكامل الخرائط</li>
-        <li>نظام إعلانات الوكالات</li>
-      </ul>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/AI_Agents-Antigravity_&_MCP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Local_LLMs-Llama.cpp_&_Ollama-FF6B6B?style=for-the-badge&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLP_&_FineTuning-008080?style=for-the-badge&logo=huggingface&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td width="100%">
-      <h3>أيشار سوفت</h3>
-      <p><b>مطور أندرويد</b> · يناير 2019 – يناير 2020</p>
-      <ul>
-        <li>منصة التوقيع الرقمي</li>
-        <li>التوقيع الإلكتروني على المستندات</li>
-      </ul>
-    </td>
+    <td align="center" width="50%"><b>⚡ Systems, Backend & Cloud</b></td>
+    <td align="center" width="50%"><b>🎨 Frontend, Mobile & Desktop UI</b></td>
   </tr>
   <tr>
-    <td width="100%">
-      <h3>بي إم إس تك</h3>
-      <p><b>مطور أندرويد</b> · أكتوبر 2016 – فبراير 2019</p>
-      <ul>
-        <li>منصة المنزل الذكي — الإضاءة، الأمان، الماء، الغاز، الكهرباء، التحكم عن بعد</li>
-      </ul>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
+      <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
+      <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -146,100 +174,103 @@
 
 <div dir="rtl">
 
-## 🎓 التعليم
+## 🌟 مشاريع مفتوحة المصدر بارزة وابتكارات تقنية
+
+</div>
 
 <table>
   <tr>
-    <td>
-      <h3>هندسة الذكاء الاصطناعي</h3>
-      <p><b>جامعة نبي أكرم</b> · 2025 – حاليًا</p>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/programmer-1998/RTL_OpenCode">RTL_OpenCode</a></h3>
+      <p><code>TypeScript · إضافة محررات · محرك نصوص RTL / BiDi</code></p>
+      <p>محرك رندر فائق الأداء للنصوص ثنائية الاتجاه داخل بيئات OpenCode لتسهيل قراءة وتحرير النصوص العربية والفارسية والعبرية بسلاسة.</p>
+      <p>⭐ <b>يحظى باستخدام واسع من المجتمع التقني</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/programmer-1998/AntiGravity-FreeModel">AntiGravity-FreeModel</a></h3>
+      <p><code>Python · وكلاء الذكاء الاصطناعي · بوابة النماذج المتعددة</code></p>
+      <p>أداة تنظيمية متطورة تتيح توجيه مهام البرمجة والتفكير المنطقي لوكلاء الذكاء الاصطناعي نحو أفضل النماذج المجانية دون استهلاك التوكنز المدفوعة.</p>
+      <p>🚀 <b>مصمم للأنظمة الذكية المستقلة</b></p>
     </td>
   </tr>
   <tr>
-    <td>
-      <h3>هندسة الحاسوب</h3>
-      <p><b>جامعة بايم نور</b> · 2017 – 2022</p>
+    <td width="50%" valign="top">
+      <h3>💎 <a href="https://github.com/programmer-1998/sinajs">sinajs</a></h3>
+      <p><code>TypeScript · قالب معماري شامل · تطوير سريع</code></p>
+      <p>بنية معمارية قياسية لبناء تطبيقات الويب الشاملة تعتمد على فصل الطبقات وإدارة الحالة التفاعلية لتقليل وقت إطلاق المشاريع.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔒 <a href="https://github.com/programmer-1998/vpn-split-tunnel">vpn-split-tunnel</a></h3>
+      <p><code>Python · شبكات لينكس · محرك التوجيه الانتقائي</code></p>
+      <p>أداة لينكس خفيفة لإدارة توجيه حركة المرور بحسب التطبيق والاتصال الانتقائي عبر البروكسي وعزل الاتصالات الشبكية بأمان.</p>
     </td>
   </tr>
   <tr>
-    <td>
-      <h3>اللغة الإنجليزية</h3>
-      <p><b>معهد جولديس</b> · 2011 – 2017</p>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/programmer-1998/SinaBox">SinaBox</a></h3>
+      <p><code>Python · المحاكاة الافتراضية · إدارة النوافذ</code></p>
+      <p>بيئة عمل افتراضية محكمة لتشغيل وتحديد مواقع تطبيقات سطح المكتب الرسومية بشكل آمن ومنظم داخل بيئة لينكس.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/programmer-1998/Rustina-Fa-Model">Rustina-Fa-Model</a></h3>
+      <p><code>Shell / Python · نموذج لغوي فارسي · ضبط دقيق (Fine-Tuning)</code></p>
+      <p>نموذج لغوي مدرب ومخصص لفهم وإنتاج المحادثات باللغة الفارسية والعمل بكفاءة عالية داخل وكلاء الذكاء الاصطناعي دون اتصال خارجي.</p>
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
 <div dir="rtl">
 
-## 🚀 ما أبنيه
+## 💼 السجل المهني والمشاريع المؤسسية
 
 </div>
+
+| الدور / التخصص | المؤسسة ونطاق العمل | الإنجازات والتقنيات |
+|---|---|---|
+| **قائد التطوير متعدد المنصات وتطبيقات الويب** | **Mehr Asl** (فبراير ٢٠٢٦ – حتى الآن) | برمجيات تتبع وحدات ECU الصناعية وأنظمة مراقبة شاحنات التعدين عبر الويب، الديسكتوب والموبايل |
+| **معمار أنظمة أندرويد** | **Barish Vira** (٢٠٢٠ – ٢٠٢٢) | منصة عقارية كبرى، محرك خرائط جغرافي متطور، وبنية تحتية لتوزيع الإعلانات بكثافة عالية |
+| **أخصائي أمان وتطوير أندرويد** | **AcharSoft** (٢٠١٩ – ٢٠٢٠) | منصة تشفير التوقيع الرقمي والتحقق من صحة المستندات القانونية إلكترونياً |
+| **قائد تطوير إنترنت الأشياء** | **BMSTec** (٢٠١٦ – ٢٠١٩) | نظام شامل لإدارة المنازل الذكية (التحكم بالكهرباء والغاز والمياه والأمان) عبر بروتوكولات IoT |
+| **تطبيق الأبحاث الطبية** | **مستشفى الشهداء** (٢٠١٩) | تطبيق متخصص لجمع البيانات البحثية ودعم الدراسات السريرية بلغة Kotlin/Java |
+
+---
+
+## 📊 إحصائيات نشاط جيت هاب المباشرة
 
 <div align="center">
-
-| | الخدمة | التقنية |
-|:---:|:---|:---|
-| 🌐 | **تصميم وتطوير الويب** | React · Next.js · TypeScript · Node.js · Tailwind |
-| 📱 | **تطوير تطبيقات الهاتف** | Kotlin · React Native · MVVM · Material Design |
-| 🖥️ | **تطوير تطبيقات سطح المكتب** | Electron · Windows · Linux · macOS |
-| 🤖 | **روبوتات متعددة المنصات** | Telegram Bot API · Discord.js · Node.js |
-| 🎨 | **تصميم الشعار والهوية التجارية** | العلامة التجارية · Illustrator |
-| 🎯 | **تصميم UI/UX واللافتات والملصقات** | Figma · Adobe XD |
-| 🎬 | **تحرير الفيديو والرسوم المتحركة** | Premiere Pro · After Effects |
-| 🎓 | **إرشاد البرمجة والرسومات وتحرير الفيديو** | إرشاد مبني على المشاريع |
-
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/programmer-1998">
+          <img src="https://github-readme-stats.vercel.app/api?username=programmer-1998&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Sina GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/programmer-1998">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-1998&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/programmer-1998">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-1998&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6D00&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer-1998&custom_title=Activity%20Velocity%20&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6D00&area_color=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<div dir="rtl">
-
-## 🚀 المشاريع المختارة
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>منصة المنزل الذكي — الإصدار 2</h3>
-      <p><code>إنترنت الأشياء · أندرويد · Kotlin · MVVM</code></p>
-      <p>الجيل الثاني لمنصة الأندرويد للمنزل الذكي: التحكم عن بعد في الإضاءة والأمان والماء والغاز والكهرباء من تطبيق Kotlin مبني على MVVM.</p>
-      <p><i>الحالة: قيد التطوير</i></p>
-    </td>
-    <td width="50%">
-      <h3>منصة الاجتماع عبر الإنترنت</h3>
-      <p><code>مباشر · مؤتمرات فيديو</code></p>
-      <p>برنامج اجتماع عبر الإنترنت مع مؤتمرات فيديو — قيد التطوير النشط حاليًا.</p>
-      <p><i>الحالة: قيد التطوير</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>منصة تحليل SWOT</h3>
-      <p><code>React · TypeScript · تحليلات</code></p>
-      <p>منصة ويب لتحليل SWOT — مباشر على <a href="https://swot.tkherad.net">swot.tkherad.net</a></p>
-      <p><i>الحالة: مباشر · 2025</i></p>
-    </td>
-    <td width="50%">
-      <h3>مساعد البحث الأندرويدي</h3>
-      <p><code>أندرويد · Java · رعاية صحية</code></p>
-      <p>تطبيق أندرويد لدعم تدفقات العمل البحثية السريرية في مستشفى شهداء.</p>
-      <p><i>الحالة: تم التسليم · 2019</i></p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div dir="rtl">
-
-## 🐍 الرسوم المتحركة للثعبان
-
-</div>
+## 🐍 مسيرة المساهمات الحية (Snake Animation)
 
 <div align="center">
 
@@ -249,84 +280,43 @@
 
 ---
 
-<div dir="rtl">
-
-## 📊 إحصائيات GitHub
-
-</div>
+## 🏆 الجوائز والأوسمة التقنية الدولية
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=programmer-1998&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-1998&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-1998&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6D00&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=programmer-1998&custom_title=%D8%B1%D8%B3%D9%85+%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A7%D8%AA&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6D00&area_color=1F6FEB&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=programmer-1998&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Sina Trophies" />
 </div>
 
 ---
 
-<div dir="rtl">
-
-## 🏆 الإنجازات
-
-</div>
+## 🌐 Connect & Collaborate Worldwide
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=programmer-1998&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
-</div>
 
----
-
-<div dir="rtl">
-
-## 🌐 تواصل معي
+[![Website](https://img.shields.io/badge/Website-sina--khanzadeh.ir-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sina-khanzadeh.ir)
+[![Email](https://img.shields.io/badge/Email-khanzadeh.1377@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanzadeh.1377@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sina_Khanzadeh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-khanzadeh)
+[![Telegram](https://img.shields.io/badge/Telegram-@programmer__1998-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmer_1998)
+[![Instagram](https://img.shields.io/badge/Instagram-@programmer__1998-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/programmer_1998)
+[![YouTube](https://img.shields.io/badge/YouTube-@programmer__1998-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@programmer_1998)
+[![X](https://img.shields.io/badge/X-@programmer__1998-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/programmer_1998)
+[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U8tQs5MQ)
 
 </div>
 
 <div align="center">
 
-[![البريد الإلكتروني](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanzadeh.1377@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-khanzadeh)
-[![تيليجرام](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programmer_1998)
-[![انستغرام](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/programmer_1998)
-[![ديسكورد](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U8tQs5MQ)
-[![يوتيوب](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@programmer_1998)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/programmer_1998)
-[![الموقع](https://img.shields.io/badge/Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sina-khanzadeh.ir)
+<br/>
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=programmer-1998&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
----
+<br/>
 
-<div dir="rtl">
+> 💡 *"الجودة ليست خياراً للمساومة، بل هي روح الإتقان في كل تفصيل."* — **سينا خانزاده**
 
-## 💭 حكماء المبرمجين
+<br/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" width="100%" />
 
-<div align="center">
+<sub>⚡ تمت المعمارية والتهيئة لمحركات البحث ومحركات التوليد الذكية (GEO) · ٢٠٢٦</sub>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=programmer-1998&color=58A6FF&style=for-the-badge&label=%D8%B2%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D9%84%D9%81+%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A)
-
-</div>
-
-<div align="center">
-  <sub>آخر تحديث: سبتمبر 2026</sub>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
